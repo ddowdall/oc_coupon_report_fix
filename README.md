@@ -3,7 +3,6 @@ oc_coupon_report_fix
 
 OpenCart Coupon Report Fix (VQMod)
 version: 1.0
-1/14/2013
 
 This VQMod will fix the search filter for the Coupon Report in Opencart Version 1.5.3.?
 
