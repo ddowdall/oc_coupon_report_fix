@@ -1,0 +1,16 @@
+<modification>
+  <id>Admin Changes</id>
+	<version>1.0</version>
+	<vqmver>2.1.5</vqmver>
+	<author>D.Dowdall</author>
+	<file name="manage/model/report/coupon.php">
+		<operation error="log">
+			<search position="replace" index="1"><![CDATA[c.date_added]]></search>
+			<add><![CDATA[
+
+			ch.date_added
+			
+			]]></add>
+		</operation>
+	</file>
+</modification>
